@@ -1,13 +1,5 @@
 # JavaScript-Style-Guide
 
-# My Coding Style
-
-For years I've been using different coding conventions for JavaScript development.
-
-But after reading [Nicholas Zakas's book](http://shop.oreilly.com/product/0636920025245.do) and inspired by [@zeh](https://github.com/zeh/), I've decided to formalize my reasons behind some of the conventions I adopted. Feel free to suggest anything you want :)
-
-> "All code in any code-base should look like a single person typed it, no matter how many people contributed."
-
 ## Commits
 
 Every commit message, pull request title or issue discussion must be in **English**.

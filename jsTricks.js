@@ -1,5 +1,5 @@
 // 1. Use the ternary operator for conditional assignment
-
+fef
 /* 
     The ternary operator (? : ) is a shorthand way of writing an if-else statement that assigns a value to a variable based on a condition.
      Syntax for the JavaScript ternary operator:
